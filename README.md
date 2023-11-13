@@ -9,8 +9,6 @@
 
 I'm improving my coding skills while studying. I create code to meet specific needs and share my gaming experiences online.
 
-</br>
-
 ## Highlights 🌟
 - 🔭 Currently working on "**Bulk Alt Text Generator**"
 - 🌱 Learning JavaScript
@@ -20,8 +18,6 @@ I'm improving my coding skills while studying. I create code to meet specific ne
 - 😄 Pronouns: he/him
 - ⚡  Fun fact: I spend most of my time on my device!
 
-</br>
-
 ## Connect with Me ^_^
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_itsvj)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://wwww.instagram.com/__itsvj)
@@ -29,7 +25,6 @@ I'm improving my coding skills while studying. I create code to meet specific ne
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsvijaysingh)
 [<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://itsvj.me)
 
-</br>
 
 ## Tech Stack 🚀
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -40,7 +35,6 @@ I'm improving my coding skills while studying. I create code to meet specific ne
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-</br>
 
 ## Tools I Use ✨
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)]()
@@ -49,28 +43,23 @@ I'm improving my coding skills while studying. I create code to meet specific ne
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
-</br>
 
 ## My Recent Projects ⌅
 - [Alt Text Generator - Generate relevant alt text for any images using Vision AI.](https://github.com/itsvijaysingh/Alt-Text-Generator)
 - [BikeKart - A Bike Store's Web Template](https://github.com/itsvijaysingh/BikeKart)
 
-</br>
 
 ## My Recent Blogs 📚
 - Nothing Published Yet!
 
-</br>
 
 ## My GitHub Stats 😎
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvijaysingh)](https://github.com/itsvijaysingh/github-readme-stats)
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=itsvijaysingh&theme=blue-green)](https://github.com/itsvijaysingh/github-readme-streak-stats)
 
-</br>
 
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=itsvijaysingh&row=1)](https://github.com/itsvijaysingh/github-profile-trophy)
 
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvijaysingh)](https://github.com/itsvijaysingh/github-readme-stats)
