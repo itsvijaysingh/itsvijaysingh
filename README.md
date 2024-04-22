@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Vijay! 👋</h1>
 
 ## About Me
+- 🧑🏻‍💻 Full Stack Web Developer
 - 🎓 First-year MCA student
-- 💻 Self-taught developer
+- 💻 Self-taught Dev
 - 🎮 Gaming enthusiast
 - 📝 Blogger
 - 🚀 Open-source contributor
@@ -10,11 +11,10 @@
 I'm improving my coding skills while studying. I create code to meet specific needs and share my gaming experiences online.
 
 ## Highlights 🌟
-- 🔭 Currently working on "**Bulk Alt Text Generator**"
-- 🌱 Learning JavaScript
+- 🔭 Currently working on "[Alt Text Generator](https://github.com/itsvijaysingh/Alt-Text-Generator)", "[PfpFinder.com](https://github.com/pfpfinder)", "[Discord-Lookup-API](https://github.com/itsvijaysingh/Discord-Lookup-API)"
+- 🌱 Learning: **React** | **Taliwind**
 - 👯 Open to collaboration on "[Alt Text Generator](https://github.com/itsvijaysingh/Alt-Text-Generator)" project
-- 💬 Ask me about my blogs or tech topics
-- 📧 Reach me at [hi@itsvj.me](mailto:hi@itsvj.me)
+- 📧 Reach me at [hi@itsvj.me](mailto:hi@itsvj.me) (💬 Ask me about my blogs or tech topics)
 - 😄 Pronouns: he/him
 - ⚡  Fun fact: I spend most of my time on my device!
 
@@ -31,20 +31,21 @@ I'm improving my coding skills while studying. I create code to meet specific ne
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 
 ## Tools I Use ✨
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)]()
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 and much more....
 
 ## My Recent Projects ⌅
 - [PfpFinder.com - Find thousands of best PFPS for all of your social profiles!.](https://pfpfinder.com)
 - [Alt Text Generator - Generate relevant alt text for any images using Vision AI.](https://github.com/itsvijaysingh/Alt-Text-Generator)
+- [My Portfolio - Web Developer Portfolio](https://github.com/itsvijaysingh/My-Portfolio)
 - [BikeKart - A Bike Store's Web Template](https://github.com/itsvijaysingh/BikeKart)
 
 
